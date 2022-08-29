@@ -8,7 +8,7 @@ At this moment the application has the place for uploading a contact image "but 
 
 This repo is divided into two main files the Components file, and public file. The public file has the basic files and code that is generated when creating a REACT appication. The Components file is where all my code is, in this file you guys will find: App.js, AddContact.js, ContactList.js, ContactC.js, Header.js, index.js and App.css. Each file does what the neame implies. Additionally the Node_Modules file is not uploaded as GitHub did not allowed me to upload the folder.
 
-Again I really appreciate the opportinity for letting me do this test, which made me realze that even though I am a recent graduate there are many thing I still need and wish to keep learning. And it would amazing to enhace this process with such an amazing like you guys.
+Again I really appreciate the opportinity for letting me do this test, which made me realze that even though I am a recent graduate there are many thing I wish to keep learning. And it would amazing to enhace this process with such an amazing like you guys.
 
 Thnanks,
 Mateo C.
