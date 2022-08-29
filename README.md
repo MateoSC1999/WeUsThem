@@ -6,7 +6,7 @@ Firstly thanks for considering my application for the job, this code is not comp
 
 At this moment the application has the place for uploading a contact image "but it does not upload", has the place for firts name, last name, phone number and email "this fields are working and they are saved in local storage. Affter adding a contact it will be displayed bellow all with a button for deletion "thats an extra that I added". 
 
-This repo is divided into two main files the Components file, and public file. The public file has the basic files and code that is generated when creating a REACT appication. The Components file is where all my code is, in this file you guys will find: App.js, AddContact.js, ContactList.js, ContactC.js, Header.js, index.js and App.css. Each file does what the neame implies.
+This repo is divided into two main files the Components file, and public file. The public file has the basic files and code that is generated when creating a REACT appication. The Components file is where all my code is, in this file you guys will find: App.js, AddContact.js, ContactList.js, ContactC.js, Header.js, index.js and App.css. Each file does what the neame implies. Additionally the Node_Modules file is not uploaded as GitHub did not allowed me to upload the folder.
 
 Again I really appreciate the opportinity for letting me do this test, which made me realze that even though I am a recent graduate there are many thing I still need and wish to keep learning. And it would amazing to enhace this process with such an amazing like you guys.
 
